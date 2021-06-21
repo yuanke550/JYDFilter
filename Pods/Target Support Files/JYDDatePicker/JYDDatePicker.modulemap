@@ -1,0 +1,6 @@
+framework module JYDDatePicker {
+  umbrella header "JYDDatePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
